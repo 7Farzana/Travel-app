@@ -1,5 +1,4 @@
-
-achments/assets/ffcdaab2-3941-4b06-a6d6-a710830cc563)# Travel app
+# Travel app
 
 This website is designed to help users have a great trip. By using this website, users can go on their dream trip and use this website in any season of the year to visit all the most visited and enjoyable places.
 
